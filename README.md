@@ -1,2 +1,2 @@
-# React-Todo-List
-تطبيق todo list يمكن للمستخدم اضافه مهامه و حذفها او التعديل عليها وممیزات اخرى تم استخدام التقنيات الثالية في بناء المشروع (React, materil UI, useState, create and useContext, useEfict, uuid)
+Todo List application allows the user to add, delete, or modify tasks and other features. When you hear Todo List application, a simple application comes to mind, but in this application, most of the concepts of React have been dealt with and many problems have been solved, for example, Turning The Context Into Provider, and merging and using the useReducer, useContext, and Provider together.
+skills:  materil UI, useState, Context, useEfict, useMemo, useReducer, Provider, uuid
